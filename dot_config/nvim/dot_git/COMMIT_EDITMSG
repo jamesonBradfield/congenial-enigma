@@ -1,0 +1,52 @@
+added a bunch of functionality, and did keymap ricing(seperated dap,
+telekasten, and other plugins into keybind groups).
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Commands:
+#   q          Close
+#   <c-c><c-c> Submit
+#   <c-c><c-k> Abort
+#   <m-p>      Previous Message
+#   <m-n>      Next Message
+#   <m-r>      Reset Message
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   ftplugin/cs.lua
+#	new file:   ftplugin/gdscript.lua
+#	new file:   ftplugin/oil.lua
+#	modified:   init.lua
+#	new file:   lua/Plugin_Dev/rhythm-mode.nvim
+#	new file:   lua/Plugin_Dev/telekasten_flashcards
+#	modified:   lua/custom/plugins/codesnap.lua
+#	modified:   lua/custom/plugins/flash.lua
+#	new file:   lua/custom/plugins/git-signs.lua
+#	deleted:    lua/custom/plugins/grapple.lua
+#	new file:   lua/custom/plugins/harpoon-lualine.lua
+#	new file:   lua/custom/plugins/harpoon.lua
+#	new file:   lua/custom/plugins/lspconfig.lua
+#	modified:   lua/custom/plugins/lualine.lua
+#	modified:   lua/custom/plugins/luasnip.lua
+#	new file:   lua/custom/plugins/neogit.lua
+#	modified:   lua/custom/plugins/noice.lua
+#	modified:   lua/custom/plugins/nvim-dap.lua
+#	new file:   lua/custom/plugins/nvim-surround.lua
+#	new file:   lua/custom/plugins/nvim-vs-tasks.lua
+#	modified:   lua/custom/plugins/oil.lua
+#	modified:   lua/custom/plugins/telekasten.lua
+#	new file:   lua/custom/plugins/telescope-undo.lua
+#	new file:   lua/custom/plugins/telescope.lua
+#	modified:   lua/custom/plugins/todo-comments.lua
+#	modified:   lua/custom/plugins/troublenvim.lua
+#	new file:   lua/custom/plugins/which-key.lua
+#	modified:   lua/custom/plugins/zen-mode.lua
+#	new file:   repro/repro.lua
+#
+# Changes not staged for commit:
+#	modified:   lua/Plugin_Dev/rhythm-mode.nvim (untracked content)
+#	modified:   lua/Plugin_Dev/telekasten_flashcards (untracked content)
+#
+

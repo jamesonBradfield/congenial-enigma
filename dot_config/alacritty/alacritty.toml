@@ -1,0 +1,43 @@
+# $HOME/.config/alacritty/alacritty.toml
+# by Rito Ghosh 2023-10-06
+import = [
+  "~/.config/alacritty/kanagawa.toml"
+]
+# [shell]
+# program = "/bin/tmux"
+# args = ["-l"]
+
+[window]
+
+opacity = 1
+
+# padding.x = 10
+# padding.y = 10
+
+decorations = "None"
+decorations_theme_variant = "Dark" # ""
+
+[font]
+
+normal.family = "JetBrainsMono Nerd Font Mono"
+normal.style = "Regular"
+bold.family = "JetBrainsMono Nerd Font Mono Bold"
+bold.style = "Bold"
+italic.family = "JetBrainsMono Nerd Font Mono Italic"
+italic.style = "Italic"
+bold_italic.family = "JetBrainsMono Nerd Font Mono Bold Italic"
+bold_italic.style = "Bold_Italic"
+offset = {x=0, y =0}
+glyph_offset = {x=0, y =0}
+
+
+size = 12.0
+
+[scrolling]
+history = 50000
+
+# [keyboard]
+# bindings = [
+# { key: J,mods: Control,mode: AppCursor,action: ScrollLineDown },
+# { key: K,mods: Control,mode: AppCursor,action: ScrollLineUp },
+# ]

@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 dbba54cfd81506a20832aade85735bf4dc377b95 JamesonBradfield <jamesonbradfield@gmail.com> 1711230344 -0600	clone: from github.com:jamesonBradfield/kickstart.nvim.git
+dbba54cfd81506a20832aade85735bf4dc377b95 0c92d66dc9a4b1933a6e6e450e82ce204230ea75 JamesonBradfield <jamesonbradfield@gmail.com> 1711310270 -0600	commit: first commit of local changes
+0c92d66dc9a4b1933a6e6e450e82ce204230ea75 15bbe409e28406fc5c62591c9337a63a0c10f2fe JamesonBradfield <jamesonbradfield@gmail.com> 1712530217 -0600	commit: added oil and other stuffs.
+15bbe409e28406fc5c62591c9337a63a0c10f2fe b63ae516bdc327e0fe67f3c3b0d3a224468a0506 JamesonBradfield <jamesonbradfield@gmail.com> 1713986175 -0600	commit: added nvim-dap to C#
+b63ae516bdc327e0fe67f3c3b0d3a224468a0506 1e2e3f3629ccf82644d57aa4b0468294f70ab648 JamesonBradfield <jamesonbradfield@gmail.com> 1715373083 -0600	commit: (not stable)having issues with treesitter not cloning
+1e2e3f3629ccf82644d57aa4b0468294f70ab648 7c1c118d1053b433644c863dbc42b8490b4f1d5e JamesonBradfield <jamesonbradfield@gmail.com> 1715911978 -0600	commit: added a bunch of functionality, and did keymap ricing(seperated dap,
