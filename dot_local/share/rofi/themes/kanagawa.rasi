@@ -1,0 +1,116 @@
+* {
+    bg-col-light:  #1F1F28;
+    bg-col: #2A2A37;
+		mid-col: #2A2A37;
+		transparent: #2A2A3700;
+    border-col: #16161D;
+    selected-col: #363646;
+    blue: #2D4F67;
+    fg-col: #C8C093;
+    fg-col2: #FFA066;
+    grey: #6c7086;
+
+    width: 310;
+    font: "JetBrainsMono Nerd Font 10";
+}
+
+element-text, element-icon , mode-switcher {
+    background-color: inherit;
+    text-color:       inherit;
+}
+
+window {
+		margin: 20px 0px 0px 77px;
+    height: 500px;
+    border: 0px;
+    border-color: @transparent;
+    background-color: @transparent;
+}
+
+mainbox {
+    background-color: @transparent;
+		padding: 0px 0px 0px 0px;
+}
+
+inputbar {
+    children: [prompt,entry];
+    background-color: @transparent;
+		margin: 0px 0px 0px 20px;
+    padding: 0px;
+}
+
+prompt {
+    background-color: @transparent;
+    padding: 0px;
+    text-color: @transparent;
+    border-radius: 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+textbox-prompt-colon {
+    expand: false;
+    str: ":";
+}
+
+entry {
+    padding: 0px;
+    margin: 0px 0px 0px 0px;
+    text-color: @fg-col2;
+    background-color: @transparent;
+}
+
+listview {
+    border: 0px 0px 0px;
+    padding: 10px;
+    margin: 0px 0px 0px 0px;
+    columns: 1;
+    lines: 10;
+    background-color: @bg-col;
+}
+
+element {
+    padding: 0px;
+    background-color: @bg-col-light;
+    text-color: @fg-col;
+}
+
+element-icon {
+    size: 15px;
+}
+
+element selected {
+    background-color:  @selected-col ;
+    text-color: @fg-col2  ;
+}
+
+mode-switcher {
+    spacing: 0;
+  }
+
+button {
+    padding: 5px;
+    background-color: @mid-col;
+    text-color: @grey;
+    vertical-align: 0.5; 
+    horizontal-align: 0.5;
+}
+
+button selected {
+  background-color: @bg-col-light;
+  text-color: @blue;
+}
+
+message {
+    background-color: @bg-col;
+    margin: 2px;
+    padding: 2px;
+    border-radius: 5px;
+}
+
+textbox {
+    padding: 0px;
+    margin: 0px 0px 0px 0px;
+    text-color: @blue;
+    background-color: @bg-col;
+}
+
