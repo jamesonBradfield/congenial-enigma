@@ -1,0 +1,22 @@
+# pack-refs with: peeled fully-peeled sorted 
+ce7e69c4a8816787580095fb52c4a3888851a954 refs/remotes/origin/babarot/doc
+f363ed412ad7f6ac98c5182678a3b9b5560f4f12 refs/remotes/origin/babarot/filter-loop
+5b4705fb493d02e5ea0c58131bd236942ac73f16 refs/remotes/origin/babarot/fix-209
+4c26bcb8969d8d5242343963c39fff7651b4567b refs/remotes/origin/babarot/some-skip-env
+230695f8da8463b18121f58d748851a67be19a00 refs/remotes/origin/master
+145e18fe07a49c15a951a919a252044612b69578 refs/remotes/origin/tagpr-from-v2.5.0
+0d62a8ba40e9bd58ecace19a00f7b474dd9a16aa refs/remotes/origin/tagpr-from-v2.5.1
+dca011aa34957bf88ea6edbdf7c84b8a5b0157b5 refs/remotes/origin/v1
+d953d5d55e575f1e378219ce6cdf8993e2d00de7 refs/tags/v2.2.1
+^58f4c9a82b56e39c4b414bf58bf618e6072269c7
+4029ddc774c1c5d0d91db71a90a4696b96d1a0c1 refs/tags/v2.2.3
+b718b133736f3e3917d89ac352d5d7302a8716ec refs/tags/v2.2.4
+^100b809043a04010ae836f25e4bbab07089e41ab
+fa88513cc105fba8cd304daaeffdcd716b234303 refs/tags/v2.3.0
+d20b348d5a1d2cc768231f77e6093a7db90a032a refs/tags/v2.3.1
+631e0332554a4e60f838b86239d68c35c7bca699 refs/tags/v2.3.2
+^e27cf951aa737569165bd608e442abec34b19165
+b07298bd7f64a397b475739cbb997e7235a49f92 refs/tags/v2.4.0
+d224672e12156e2cbf676cf5737819040029b13f refs/tags/v2.4.1
+0d8449290cf6e768db03459b8bfaa0a11c6ddd23 refs/tags/v2.5.0
+b911969f32c69402954da97d84b549303638cb1f refs/tags/v2.5.1
