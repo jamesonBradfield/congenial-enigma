@@ -174,7 +174,7 @@ return {
       '<leader>oo',
       mode = { 'n', 'x', 'o' },
       function()
-        require('oil').toggle_float()
+        vim.cmd 'Oil'
       end,
       desc = '[o]il [o]pen',
     },

@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 dbba54cfd81506a20832aade85735bf4dc377b95 JamesonBradfield <jamesonbradfield@gmail.com> 1711230344 -0600	clone: from github.com:jamesonBradfield/kickstart.nvim.git
+dbba54cfd81506a20832aade85735bf4dc377b95 0c92d66dc9a4b1933a6e6e450e82ce204230ea75 JamesonBradfield <jamesonbradfield@gmail.com> 1711310270 -0600	commit: first commit of local changes
+0c92d66dc9a4b1933a6e6e450e82ce204230ea75 15bbe409e28406fc5c62591c9337a63a0c10f2fe JamesonBradfield <jamesonbradfield@gmail.com> 1712530217 -0600	commit: added oil and other stuffs.
+15bbe409e28406fc5c62591c9337a63a0c10f2fe b63ae516bdc327e0fe67f3c3b0d3a224468a0506 JamesonBradfield <jamesonbradfield@gmail.com> 1713986175 -0600	commit: added nvim-dap to C#
+b63ae516bdc327e0fe67f3c3b0d3a224468a0506 1e2e3f3629ccf82644d57aa4b0468294f70ab648 JamesonBradfield <jamesonbradfield@gmail.com> 1715373083 -0600	commit: (not stable)having issues with treesitter not cloning
+1e2e3f3629ccf82644d57aa4b0468294f70ab648 7c1c118d1053b433644c863dbc42b8490b4f1d5e JamesonBradfield <jamesonbradfield@gmail.com> 1715911978 -0600	commit: added a bunch of functionality, and did keymap ricing(seperated dap,
+7c1c118d1053b433644c863dbc42b8490b4f1d5e 7df91577576381486d53ffaa08b021077b43ddd2 JamesonBradfield <jamesonbradfield@gmail.com> 1721020592 -0600	commit: added tons of crap and havent pushed in a while changes include ( markdown inline preview for note-taking,better telekasten markdown integration, remapping telekasten keybinds in whichkey, and some cmp work and other beautifying stuffs
+7df91577576381486d53ffaa08b021077b43ddd2 7df91577576381486d53ffaa08b021077b43ddd2 JamesonBradfield <jamesonbradfield@gmail.com> 1721020609 -0600	Branch: renamed refs/heads/master to refs/heads/main
+7df91577576381486d53ffaa08b021077b43ddd2 c1091cca481a8ff933da212b8ceb2cbdb4d9fe1b JamesonBradfield <jamesonbradfield@gmail.com> 1725043935 -0600	commit: syncing with laptop
